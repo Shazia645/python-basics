@@ -1,49 +1,43 @@
-Python Arithmetic Operators Practice
-
-This repository contains my Python practice for learning arithmetic operators and strengthening my programming fundamentals.
-
-Topics Covered
-
-* Addition (+)
-* Subtraction (-)
-* Multiplication (*)
-* Division (/)
-* Floor Division (//)
-* Modulus (%)
-* Exponentiation (**)
-
-Project File
-
-`arithmetic_operators.py`
-
-This file contains practical examples of arithmetic operations in Python.
-
-Learning Goal
-
-I am building my Python fundamentals step by step through small practical projects. My goal is to continue learning Python, Data Analysis, and Artificial Intelligence.
-
-Tools Used
-
-* Python
-* Visual Studio Code
-* Git
-* GitHub
-
-About
-
-I am a beginner Python learner working on practical projects to improve my programming skills and build a strong foundation for AI and Data Analysis.
 # Python Basics
 
-A collection of beginner-friendly Python exercises created while learning and practicing core programming concepts.
+A beginner-friendly collection of Python practice files covering the core concepts of the language, from Hello World to object-oriented programming. Each topic has hands-on examples written while learning, and this repo is the foundation for my journey from Python to Data Science, Machine Learning, and Agentic AI.
 
-Topics Covered
+## Topics Covered
 
-* Variables & Data Types
-* Strings
-* Conditional Statements
-* Arithmetic Operators
+1. **Getting Started**: Hello World, syntax, comments, `print()` and `input()`
+2. **Variables & Data Types**: integers, floats, strings, booleans, type conversion
+3. **Operators**: arithmetic, comparison, logical, and assignment operators
+4. **Strings**: indexing, slicing, and common string methods
+5. **Conditionals**: `if`, `elif`, `else`
+6. **Loops**: `for` and `while` loops, `break`, `continue`, nested loops
+7. **Functions**: parameters, return values, default arguments, scope
+8. **Lists**: creating, indexing, slicing, and list methods
+9. **Tuples & Sets**: when and how to use them
+10. **Dictionaries**: key-value pairs, looping, and dictionary methods
+11. **File Handling**: reading and writing text, JSON, and CSV files
+12. **Object-Oriented Programming**: classes, objects, methods, and `__init__`
+13. **Error Handling**: `try`, `except`, `finally`
 
-Purpose
+## How to Run
 
-This repository documents my Python learning journey through practical coding exercises and small projects.
+1. Make sure Python 3 is installed: `python --version`
+2. Clone this repo:
+   ```bash
+   git clone https://github.com/Shazia645/python-basics.git
+   cd python-basics
+   ```
+3. Run any file:
+   ```bash
+   python filename.py
+   ```
 
+## What's Next
+
+After the basics, I moved on to data analysis and machine learning. See my other projects:
+
+- [netflix-data-cleaning-eda](https://github.com/Shazia645/netflix-data-cleaning-eda): data cleaning and exploratory data analysis with Pandas
+- [heart-disease-prediction](https://github.com/Shazia645/heart-disease-prediction): a machine learning project predicting heart disease
+
+## About
+
+Built by [Shazia](https://github.com/Shazia645) while learning Python for Data, AI, and ML.
