@@ -58,4 +58,3 @@ else:
        grate="e"
        print("grate of students->:",grate)
 
-class three:
